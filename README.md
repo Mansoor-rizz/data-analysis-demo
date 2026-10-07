@@ -126,7 +126,7 @@ prism-insurance-analysis/
 **Mansoor**
 Data Analytics Professional | Hyderabad, India
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • 💻 [GitHub](https://github.com/your-username) • 📧 your-email@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mansoor-ali-khan-29773b184/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEvA8ZWUPQo6sfzmFfgLBsQ%3D%3D) • 💻 [GitHub](https://github.com/Mansoor-rizz) • 📧 mansoorali.ma.326@gmail.com
 
 ⭐ If you found this project useful, please give it a star!
 
