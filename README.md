@@ -45,7 +45,7 @@ Prism Insurance Pvt. Ltd. needs a clear view of how its policies and claims are 
 
 **Key columns:** `CustomerID`, `PolicyNumber`, `ClaimNumber`, `PolicyType`, `PremiumAmount`, `CoverageAmount`, `ClaimAmount`, `ClaimStatus`, `Active/Inactive`, `Gender`, `AgeGroup`
 
-> 📝 *Add your data source here (e.g., synthetic data, Kaggle link, or company data).*
+> 📝 *https://att-c.udemycdn.com/2024-07-27_06-58-32-305aa0ba4d15df98f4f45b4edf5c29b3/original.csv?response-content-disposition=attachment%3B+filename%3DInsuranceData.csv&Expires=1791378091&Signature=yWXbD2BO7QZKg4ym4RjT~LYhIXLF1w2toy0uhHUORQ6fRoZFSOyF0A4qkJ5FNNVE3efQV186Z9jQtfLjEwFmifywfdBwu4cOi3XHPc4LZtEja~7v5KzOiurdWc5LIJuTM0q0s-sqOpa072mKLQglf2GHkc9ub4pVnPO81-~oOS4q-eXfHBLqesafV7zIElLwiTMWGD2CaObPu056VGBIGdXrtjtC2McuSI33z1znZNvpNRx0P9PNEu8mk0YNe8dLbjANNO6~myV-yFzNcse~I08QikIB93vUmGbTl4nIJmBSBOVHYKrEysNrlSzcRdSHFl~dCaL0f9QQVFSmZoAdHQ__&Key-Pair-Id=K3MG148K9RIRF4*
 
 ## 🛠️ Tools & Tech Stack
 - **SQL (MySQL / DB2)** – data extraction, joins, aggregations
